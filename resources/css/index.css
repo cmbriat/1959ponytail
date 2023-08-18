@@ -1,0 +1,17 @@
+body {
+  background-color: Lavender;  
+}
+ 
+h1 {
+    color: Black;
+  }
+
+.series {
+  background-color: LavenderBlush;
+  border-color: LavenderBlush;
+  border-style: solid;
+  border-radius: 15px;
+  border: 2px solid ;
+  margin: 20px;
+  padding: 20px;
+}
